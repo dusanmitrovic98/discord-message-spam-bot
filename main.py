@@ -38,3 +38,4 @@ random_messages = [
     "Your potential is limitless!",
     "Spread kindness and positivity.",
     "Believe in the power of positivity.",
+    "You're a true inspiration.",
