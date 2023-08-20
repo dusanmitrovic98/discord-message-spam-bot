@@ -10,3 +10,4 @@ SERVER_ID = 123456
 CHANNEL_ID = 123456
 
 # List of random messages
+random_messages = [
