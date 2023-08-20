@@ -48,3 +48,4 @@ random_messages = [
     "Take pride in your accomplishments.",
     "You're a beacon of hope.",
     "Keep your heart open to new possibilities.",
+    "You're changing lives with your actions.",
