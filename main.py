@@ -19,3 +19,4 @@ random_messages = [
     "Smile and spread positivity!",
     "You're capable of amazing things!",
     "Sending good vibes your way!",
+    "Believe in yourself and your dreams.",
