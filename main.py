@@ -13,3 +13,4 @@ CHANNEL_ID = 123456
 random_messages = [
     "Hello, world!",
     "How's everyone doing?",
+    "Just dropping by to say hi!",
