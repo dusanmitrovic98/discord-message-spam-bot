@@ -15,3 +15,4 @@ random_messages = [
     "How's everyone doing?",
     "Just dropping by to say hi!",
     "Hope you're having a great day!",
+    "Keep shining bright!",
