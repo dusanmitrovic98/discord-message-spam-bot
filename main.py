@@ -12,3 +12,4 @@ CHANNEL_ID = 123456
 # List of random messages
 random_messages = [
     "Hello, world!",
+    "How's everyone doing?",
