@@ -27,3 +27,4 @@ random_messages = [
     "You're stronger than you think!",
     "Today is full of possibilities.",
     "You're a ray of sunshine!",
+    "Chase your dreams with passion.",
