@@ -51,3 +51,4 @@ random_messages = [
     "You're changing lives with your actions.",
     "Stay true to yourself and your values.",
     "You're capable of overcoming any obstacle.",
+    "Your positivity brightens the world.",
