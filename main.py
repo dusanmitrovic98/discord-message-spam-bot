@@ -31,3 +31,4 @@ random_messages = [
     "You're valued and appreciated.",
     "Stay positive and keep moving forward.",
     "The world is better with you in it.",
+    "You're capable of overcoming anything.",
