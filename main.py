@@ -18,3 +18,4 @@ random_messages = [
     "Keep shining bright!",
     "Smile and spread positivity!",
     "You're capable of amazing things!",
+    "Sending good vibes your way!",
