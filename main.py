@@ -40,3 +40,4 @@ random_messages = [
     "Believe in the power of positivity.",
     "You're a true inspiration.",
     "Keep smiling and keep shining.",
+    "You're making progress every day.",
