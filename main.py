@@ -36,3 +36,4 @@ random_messages = [
     "Keep your head high and stay strong.",
     "You're doing better than you know.",
     "Your potential is limitless!",
+    "Spread kindness and positivity.",
