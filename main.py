@@ -3,3 +3,4 @@ import random
 import asyncio
 
 # Your bot's token
+TOKEN = ''
