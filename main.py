@@ -45,3 +45,4 @@ random_messages = [
     "Keep pushing through challenges.",
     "You're meant for great things!",
     "Your positivity is contagious.",
+    "Take pride in your accomplishments.",
