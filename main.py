@@ -46,3 +46,4 @@ random_messages = [
     "You're meant for great things!",
     "Your positivity is contagious.",
     "Take pride in your accomplishments.",
+    "You're a beacon of hope.",
