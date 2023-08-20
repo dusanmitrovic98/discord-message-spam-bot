@@ -28,3 +28,4 @@ random_messages = [
     "Today is full of possibilities.",
     "You're a ray of sunshine!",
     "Chase your dreams with passion.",
+    "You're valued and appreciated.",
