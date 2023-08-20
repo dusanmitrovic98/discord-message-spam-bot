@@ -50,3 +50,4 @@ random_messages = [
     "Keep your heart open to new possibilities.",
     "You're changing lives with your actions.",
     "Stay true to yourself and your values.",
+    "You're capable of overcoming any obstacle.",
