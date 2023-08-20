@@ -35,3 +35,4 @@ random_messages = [
     "Your kindness makes a difference.",
     "Keep your head high and stay strong.",
     "You're doing better than you know.",
+    "Your potential is limitless!",
