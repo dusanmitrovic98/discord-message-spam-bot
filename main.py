@@ -37,3 +37,4 @@ random_messages = [
     "You're doing better than you know.",
     "Your potential is limitless!",
     "Spread kindness and positivity.",
+    "Believe in the power of positivity.",
