@@ -21,3 +21,4 @@ random_messages = [
     "Sending good vibes your way!",
     "Believe in yourself and your dreams.",
     "You're unique and wonderful!",
+    "Every day is a new opportunity.",
