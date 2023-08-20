@@ -54,3 +54,4 @@ random_messages = [
     "Your positivity brightens the world.",
     "Keep chasing your dreams!",
     "You're making a positive impact.",
+    "Your journey is an inspiring one.",
