@@ -43,3 +43,4 @@ random_messages = [
     "You're making progress every day.",
     "You bring joy to those around you.",
     "Keep pushing through challenges.",
+    "You're meant for great things!",
