@@ -30,3 +30,4 @@ random_messages = [
     "Chase your dreams with passion.",
     "You're valued and appreciated.",
     "Stay positive and keep moving forward.",
+    "The world is better with you in it.",
