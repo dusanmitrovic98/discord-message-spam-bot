@@ -24,3 +24,4 @@ random_messages = [
     "Every day is a new opportunity.",
     "You're making a difference!",
     "Embrace the journey of life.",
+    "You're stronger than you think!",
